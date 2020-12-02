@@ -35,7 +35,7 @@ function Layout ({ children }) {
               <span className="mx-1 text-sm">NY</span>
             </div>
             <div className="w-full text-gray-700 md:text-center text-2xl font-semibold">
-              Pulp Inc.
+              CEREBRA.
             </div>
             <div className="flex items-center justify-end w-full">
               <button
